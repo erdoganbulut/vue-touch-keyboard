@@ -23,7 +23,7 @@ module.exports = {
 		],
 		
 		shifted: [
-			"é ! ' ^ + % & / () = ? _ {backspace}",
+			"é ! ' ^ + % & / ( ) = ? _ {backspace}",
 			"{tab} Q W E R T Y U I O P Ğ Ü",
 			"{caps} A S D F G H J K L Ş İ ; {enter}",
 			"{shiftl} > Z X C V B N M Ö Ç : {shiftr}",
@@ -31,7 +31,7 @@ module.exports = {
 		],
 		
 		capsed: [
-			"é ! ' ^ + % & / () = ? _ {backspace}",
+			"é ! ' ^ + % & / ( ) = ? _ {backspace}",
 			"{tab} Q W E R T Y U I O P Ğ Ü",
 			"{caps} A S D F G H J K L Ş İ ; {enter}",
 			"{shiftl} > Z X C V B N M Ö Ç : {shiftr}",
