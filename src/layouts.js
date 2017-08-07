@@ -15,27 +15,28 @@ module.exports = {
 		},
 
 		default: [
-			"` 1 2 3 4 5 6 7 8 9 0 - = {backspace}",
-			"{tab} q w e r t y u i o p [ ] \\",
-			"{caps} a s d f g h j k l ; ' {enter}",
-			"{shiftl} z x c v b n m , . / {shiftr}",
-			"{next} {space} {accept}"
+			"\" 1 2 3 4 5 6 7 8 9 0 * - {backspace}",
+			"{tab} q w e r t y u ı o p ğ ü",
+			"{caps} a s d f g h j k l ş i , {enter}",
+			"{shiftl} < z x c v b n m ö ç . {shiftr}",
+			"{next} {space} @ {accept}"
 		],
+		
 		shifted: [
-			"~ ! @ # $ % ^ & * ( ) _ + {backspace}",
-			"{tab} Q W E R T Y U I O P { } |",
-			"{caps} A S D F G H J K L : \" {enter}",
-			"{shiftl} Z X C V B N M < > ? {shiftr}",
-			"{next} {space} {accept}"
+			"é ! ' ^ + % & / () = ? _ {backspace}",
+			"{tab} Q W E R T Y U I O P Ğ Ü",
+			"{caps} A S D F G H J K L Ş İ ; {enter}",
+			"{shiftl} > Z X C V B N M Ö Ç : {shiftr}",
+			"{next} {space} @ {accept}"
 		],
 		
 		capsed: [
-			"` 1 2 3 4 5 6 7 8 9 0 - = {backspace}",
-			"{tab} Q W E R T Y U I O P [ ] \\",
-			"{caps} A S D F G H J K L ; ' {enter}",
-			"{shiftl} Z X C V B N M , . / {shiftr}", 
-			"{next} {space} {accept}"
-		]		
+			"é ! ' ^ + % & / () = ? _ {backspace}",
+			"{tab} Q W E R T Y U I O P Ğ Ü",
+			"{caps} A S D F G H J K L Ş İ ; {enter}",
+			"{shiftl} > Z X C V B N M Ö Ç : {shiftr}",
+			"{next} {space} @ {accept}"
+		]	
 	},
 
 	"compact": {
